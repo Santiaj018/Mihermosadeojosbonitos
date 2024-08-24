@@ -1,3 +1,2 @@
-document.addEventListener('DOMContentLoaded', function() {
-    console.log("Página cargada completamente.");
-});
+// Aquí puedes agregar código JavaScript si es necesario
+console.log("JavaScript cargado correctamente.");
