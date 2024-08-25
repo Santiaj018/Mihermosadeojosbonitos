@@ -64,3 +64,15 @@ footer {
     height: auto; /* Mantiene la proporción de la imagen */
     border-radius: 5px; /* Bordes redondeados para las imágenes */
 }
+
+.video-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.video-container iframe {
+    width: 100%;
+    max-width: 560px;
+    height: 315px;
+}
+
