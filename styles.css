@@ -49,6 +49,6 @@ footer {
     bottom: 0;
 }
 
-p {
+.justificado {
     text-align: justify;
 }
